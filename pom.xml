@@ -1,22 +1,4 @@
-Skip to content
- 
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@A85641 
-60
-195
-1,768 1,306 apache/maven
- Code  Pull requests 27  Actions  Projects 0  Security  Insights
-maven/maven-core/pom.xml
-@khmarbaise khmarbaise [maven-release-plugin] prepare for next development iteration
-5222f03 on Apr 4
-@brettporter @bentmann @jvanzyl @stephenc @olamy @hboutemy @carlossg @michael-o @khmarbaise @neonics @ifedorenko @ChristianSchulte @mcculls @slachiewicz @philwebb @hwellmann @brianf @andham @aheritier
-253 lines (243 sloc)  8.23 KB
     
 <?xml version="1.0" encoding="UTF-8"?>
 
